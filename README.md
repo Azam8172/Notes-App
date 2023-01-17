@@ -1,4 +1,6 @@
 # Notes-APP (JS-Project)
+https://azam-notes.netlify.app/
+
 by using HTML, CSS and Javascript
 
 Why this project was chosen ?
